@@ -12,4 +12,4 @@ K1's gears might also work, but I haven't tested them. Note that the DXC gears h
 
 Feel free to make modifications to this design and ask for different formats of the CAD.
 
-Link to DXC's github: https://github.com/Phaetus/DXC-Extruder
+Link to DXC's github: https://github.com/Phaetus/DXC-Extruder, and special thanks to DXC's creators~
