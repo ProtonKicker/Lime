@@ -2,7 +2,7 @@
 
 Creality K1 or APUS motor
  
-3 Printed parts (From frame, back frame, and the idler arm)
+3 Printed parts (Front frame, back frame, and idler arm)
  
 DXC gears
  
