@@ -15,3 +15,11 @@ Feel free to make modifications to this design and ask for different formats of 
 Link to DXC's github: https://github.com/Phaetus/DXC-Extruder, and special thanks to DXC's creators~
 
 Go to https://github.com/ProtonKicker/Lime/tree/main/More%20Pictures for pictures of Lime on Voron 0.2
+
+---
+
+Initially this is a color swaping extruder
+
+See X thread for my initial ideas and how this project went on a tagent and become Lime: 
+
+https://x.com/ToviDing/status/1919260804932678033
